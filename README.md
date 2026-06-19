@@ -19,6 +19,12 @@ Créer une base de données relationnelle permettant d’analyser et d’exploit
 
 ---
 
+## Schéma relationnel normalisé
+
+![Schéma relationnel](schema_relationnel.png)
+
+---
+
 ## 🛠️ Technologies
 - SQL
 - MySQL / SQL Workbench
