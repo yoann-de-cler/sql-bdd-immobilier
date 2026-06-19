@@ -1,4 +1,4 @@
-# 🏠 Analyse de données immobilières avec SQL
+# Analyse de données immobilières avec SQL
 
 ## Objectif
 Créer une base de données relationnelle permettant d’analyser et d’exploiter les données de ventes immobilières.
@@ -29,10 +29,11 @@ Les requêtes utilisées sont dans le fichier requetes.sql
 
 ---
 
-## Technologies
+## Outils
 - SQL
 - MySQL / SQL Workbench
 - Power Architect
+- Excel
 
 ---
 
