@@ -23,6 +23,10 @@ Créer une base de données relationnelle permettant d’analyser et d’exploit
 
 ![Schéma relationnel](schema_relationnel.png)
 
+
+## Requêtes SQL
+Les requêtes utilisées sont dans le fichier requetes.sql
+
 ---
 
 ## 🛠️ Technologies
