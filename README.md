@@ -1,7 +1,7 @@
 # 🏠 Analyse de données immobilières avec SQL
 
 ## 🎯 Objectif
-Créer une base de données relationnelle permettant de prédire les ventes immobilières
+Créer une base de données relationnelle permettant d’analyser et d’exploiter les données de ventes immobilières.
 
 ---
 
