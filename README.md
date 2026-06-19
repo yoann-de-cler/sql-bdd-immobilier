@@ -25,7 +25,7 @@ Créer une base de données relationnelle permettant d’analyser et d’exploit
 
 
 ## Requêtes SQL
-Les requêtes utilisées sont dans le fichier requetes.sql
+Les requêtes utilisées sont dans le fichier *requetes (SQL)*
 
 ---
 
