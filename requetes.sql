@@ -1,4 +1,4 @@
-# Prix moyen au m² pour les appartements de plus de 4 pièces
+-- Prix moyen au m² pour les appartements de plus de 4 pièces
 
 SELECT 
     round(avg(v.valeurFonciere / b.surfaceCarrez), 2) AS 'prix_moyen_m²_apt_plus_de_4_pieces',
@@ -21,7 +21,7 @@ ORDER BY
 	prix_moyen_m²_apt_plus_de_4_pieces DESC;
  
  
-# Les 20 communes avec le plus de transactions pour les communes dépassant 10k habitants
+-- Les 20 communes avec le plus de transactions pour les communes dépassant 10k habitants
 
 WITH nb_ventes_population AS(
 SELECT
